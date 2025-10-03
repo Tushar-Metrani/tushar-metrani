@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Tushar]!
+## 👋 Hi there, I'm Tushar!
 
 - I'm an intermediate full-stack developer building responsive and user-friendly websites and web applications.
 
@@ -35,7 +35,12 @@
 
 ---
 
+- check out my repositories to see what I've been working on.
+  
+---
+
 ## 📬 Get in Touch
 
-📧 [tusharmetrani00@gmail.com](mailto:tusharmetrani00@gmail.com)
+- 📧 [tusharmetrani00@gmail.com](mailto:tusharmetrani00@gmail.com)
+  
 ---
