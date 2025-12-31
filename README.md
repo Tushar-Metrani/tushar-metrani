@@ -43,8 +43,9 @@
 
 ---
 
-### Portfolio Website
-![Portfolio](https://tushar-metrani-portfolio.netlify.app/)
+## Portfolio Website
+
+- 🔗 [Portfolio](https://tushar-metrani-portfolio.netlify.app/)
   
 ---
 
