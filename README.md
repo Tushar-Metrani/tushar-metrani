@@ -43,11 +43,6 @@
 
 ---
 
-## Portfolio Website
-
-- 🔗 [Portfolio](https://tushar-metrani-portfolio.netlify.app/)
-  
----
 
 ## 📬 Get in Touch
 
