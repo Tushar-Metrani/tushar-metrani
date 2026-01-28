@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Tushar!
 
-- I'm an intermediate full-stack developer building responsive and user-friendly websites and web applications.
+- I'm a full-stack developer building responsive and user-friendly websites and web applications.
 
 - I strive to write clean, efficient, and maintainable code.
 
@@ -36,6 +36,7 @@
 
 ### ⚙ Tools
 ![Wordpress](https://img.shields.io/badge/Wordpress-1572B6?style=flat&logo=wordpress&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1572B6?style=flat&logo=docker&logoColor=white)
 
 ### 🔧 Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
