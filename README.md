@@ -44,9 +44,11 @@
 
 ---
 
-## 💻 Portfolio
+## 🗂️ Portfolio
 
-[Tushar_Metrani](https://tushar-metrani-portfolio.netlify.app)
+[Visit My Portfolio](https://tushar-metrani-portfolio.netlify.app)
+
+---
 
 ## 📬 Get in Touch
 
