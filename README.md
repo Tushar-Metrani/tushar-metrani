@@ -4,7 +4,7 @@
 
 - I strive to write clean, efficient, and maintainable code.
 
-- I strongly believe in using my skills and time to support businesses that care deeply about the planet, animals, and ethical progress.
+- I strongly believe in using my skills and time to support projects that care deeply about the planet, animals, and ethical progress.
 
 ---
 
