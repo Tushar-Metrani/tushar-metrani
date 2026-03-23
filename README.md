@@ -37,6 +37,7 @@
 ### ⚙ Tools
 ![Wordpress](https://img.shields.io/badge/Wordpress-1572B6?style=flat&logo=wordpress&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1572B6?style=flat&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 ### 🔧 Version Control
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
