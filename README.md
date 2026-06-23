@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Tushar!
+# 👋 Hi there, I'm Tushar!
 
 - I'm a full-stack developer building responsive and user-friendly websites and web applications.
 
