@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Tushar!
 
-I'm a full-stack developer who enjoys building responsive, user-friendly web applications and writing clean, efficient, and maintainable code. I'm particularly interested in contributing to projects that create a positive impact for people, animals, and the environment. Recently, I've been spending time learning more about machine learning and expanding my knowledge in the field.
+I'm a full-stack developer who enjoys building responsive, user-friendly applications and writing clean, efficient, and maintainable code. I'm particularly interested in contributing to projects that create a positive impact for people, animals, and the environment. Recently, I've been spending time learning more about machine learning and expanding my knowledge in the field.
 
 ---
 
@@ -15,7 +15,7 @@ I'm a full-stack developer who enjoys building responsive, user-friendly web app
 
 ### 🧩 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![FastApi](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
@@ -24,7 +24,7 @@ I'm a full-stack developer who enjoys building responsive, user-friendly web app
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 ### ⚙ Tools
-![Wordpress](https://img.shields.io/badge/Wordpress-1572B6?style=flat&logo=wordpress&logoColor=white)
+![WordPress](https://img.shields.io/badge/Wordpress-1572B6?style=flat&logo=wordpress&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1572B6?style=flat&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
@@ -34,14 +34,14 @@ I'm a full-stack developer who enjoys building responsive, user-friendly web app
 
 ---
 
-## 🗂️ Portfolio
+## 🌐 Portfolio
 
-[Tushar Metrani](https://tushar-metrani-portfolio.netlify.app)
+https://tushar-metrani-portfolio.netlify.app
 
 ---
 
 ## 📬 Get in Touch
 
-- 📧 [tusharmetrani00@gmail.com](mailto:tusharmetrani00@gmail.com)
+[tusharmetrani00@gmail.com](mailto:tusharmetrani00@gmail.com)
   
 ---
