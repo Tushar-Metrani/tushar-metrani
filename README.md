@@ -1,17 +1,6 @@
 # 👋 Hi there, I'm Tushar!
 
-- I'm a full-stack developer building responsive and user-friendly websites and web applications.
-
-- I strive to write clean, efficient, and maintainable code.
-
-- I strongly believe in using my skills and time to support projects that care deeply about the planet, animals, and ethical progress.
-
----
-
-## 🌱 A Little More About Me
-
-- 🥦 Vegan - mindful of sustainability and ethical living.  
-- 📚 Lifelong learner - who enjoys learning new technologies and also other aspects of life.
+I'm a full-stack developer who enjoys building responsive, user-friendly web applications and writing clean, efficient, and maintainable code. I'm particularly interested in contributing to projects that create a positive impact for people, animals, and the environment. Recently, I've been spending time learning more about machine learning and expanding my knowledge in the field.
 
 ---
 
@@ -47,7 +36,7 @@
 
 ## 🗂️ Portfolio
 
-[Visit My Portfolio](https://tushar-metrani-portfolio.netlify.app)
+[Tushar Metrani](https://tushar-metrani-portfolio.netlify.app)
 
 ---
 
